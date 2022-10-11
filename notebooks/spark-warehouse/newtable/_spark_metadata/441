@@ -1,0 +1,5 @@
+v1
+{"path":"file:///Users/muttulow/Desktop/08-Misc/twitter-project/notebooks/spark-warehouse/newtable/part-00000-f8b4395a-ebd6-434d-9c24-ace66f567ecb-c000.snappy.parquet","size":501,"isDir":false,"modificationTime":1665524394484,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/muttulow/Desktop/08-Misc/twitter-project/notebooks/spark-warehouse/newtable/part-00001-6194c33c-78a4-4543-a0fa-8d470062ecd3-c000.snappy.parquet","size":501,"isDir":false,"modificationTime":1665524394487,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/muttulow/Desktop/08-Misc/twitter-project/notebooks/spark-warehouse/newtable/part-00002-dbefdce5-1449-4580-bc28-f14d930859ba-c000.snappy.parquet","size":495,"isDir":false,"modificationTime":1665524394487,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/muttulow/Desktop/08-Misc/twitter-project/notebooks/spark-warehouse/newtable/part-00003-d9165a8a-01a5-449d-8a67-113fbaa77600-c000.snappy.parquet","size":495,"isDir":false,"modificationTime":1665524394480,"blockReplication":1,"blockSize":33554432,"action":"add"}

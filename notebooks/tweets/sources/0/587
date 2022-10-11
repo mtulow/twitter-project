@@ -1,0 +1,5 @@
+v1
+{"path":"file:///Users/muttulow/Desktop/08-Misc/twitter-project/notebooks/spark-warehouse/mytable/part-00000-7238863d-072e-4444-aa2c-95b0eabd5975-c000.snappy.parquet","timestamp":1665524603873,"batchId":587}
+{"path":"file:///Users/muttulow/Desktop/08-Misc/twitter-project/notebooks/spark-warehouse/mytable/part-00002-890f169b-51c8-47f3-b34c-ffdba9028bd1-c000.snappy.parquet","timestamp":1665524603873,"batchId":587}
+{"path":"file:///Users/muttulow/Desktop/08-Misc/twitter-project/notebooks/spark-warehouse/mytable/part-00001-a39018c6-eb48-4dc9-9a8b-963fc59612cb-c000.snappy.parquet","timestamp":1665524603879,"batchId":587}
+{"path":"file:///Users/muttulow/Desktop/08-Misc/twitter-project/notebooks/spark-warehouse/mytable/part-00003-19d621be-422a-48e7-b609-36cb7a63cd2d-c000.snappy.parquet","timestamp":1665524603879,"batchId":587}
